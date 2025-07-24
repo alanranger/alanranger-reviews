@@ -1623,15 +1623,7 @@ export default [
     "date": "05/03/2019 14:33",
     "source": "Trustpilot"
   },
-  {
-    "reviewer": NaN,
-    "body": NaN,
-    "rating": 0,
-    "event": "Delete",
-    "date": NaN,
-    "source": "Trustpilot"
-  },
-  {
+    {
     "reviewer": "Graham Hilling",
     "body": "Alan did a great job of imparting knowledge and making the weekend a very enjoyable experience. Locations are well researched and appropriate and I'd have no hesitation in heartily recommending him.    When money allows I hope to join him on further workshops in the future.    g",
     "rating": 5,
